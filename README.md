@@ -7,4 +7,4 @@ Cycle02 - Avoid Overfitting
 
 Cycle03 - Linear Regression Model
 
-Cycle04 - Determination Coefficient Metric
+Cycle04 - Determination Coefficient Metric ( R Score )
